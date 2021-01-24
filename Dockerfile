@@ -1,5 +1,5 @@
 From ubuntu:20.10
-LABEL author="Anand" email="anand.kirti@d.com"
+LABEL author="Akirti" email="ak@ak.com"
 LABEL version="0.1"
 
 
