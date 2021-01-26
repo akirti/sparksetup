@@ -1,5 +1,4 @@
 # sparksetup
-Test Spark Setup
 This Project is for Setting up Spark base imgae which can use spark @incubator-sedona libraries for GeoSpatial Dataframes. Currently I am build as a stand alone Images. 
 
 # Future Task
