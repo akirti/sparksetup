@@ -6,3 +6,7 @@ This Project is for Setting up Spark base imgae which can use spark @incubator-s
 2. Create a base Hadoop Image, Build Hadoop Cluster Nodes and use it in Building  Spark-hadoop cluster.
 3. Create Local / Distrubuted.
 
+References used in current image
+1. @big-data-europe/docker-spark
+2. @ringcentral-docker/jdk
+3. @gettyimages/docker-spark
